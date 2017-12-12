@@ -1,0 +1,4 @@
+I'm supposed to reflect on how seeing the didference between two files would help debugging.
+
+It makes it easier to see changes and see eerors introduced. It might change the way one would approach programming.
+
