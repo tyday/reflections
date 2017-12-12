@@ -1,0 +1,9 @@
+I'm not doing great following instructions. I accidentally stepped ahead of the teacher. Although, it makes me feel smarter. But I'm not. I've been working on git shit all day through a different medium.
+
+I need to make a list of git commands if I plan on continuing to use git
+from the command line.
+
+I think the staging area allows for finer control.
+
+I don't know that I see a need for it... at least in my programming skill
+so far. But maybe in the future
