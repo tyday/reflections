@@ -10,9 +10,18 @@ so far. But maybe in the future
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-So. The weird thing seems to be that the staging area alllows me to make many changes
+So. The weird thing seems to be that the staging area allows me to make many changes
 then come back and group the changes so that they are in a logical form
 then commit them in groups.
 
 It makes sense... from the point of view of people who are working with many files on 
 many things. Otherwise you could only really do one thing at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimental branches seem useful. Allows major changes in the code without fear of screwing up your main program.
+Allows you to work on multiple versions of the same thing.
+
+How do the diagrams help you visualize the branch structure?
+Makes it significantly easier to follow along.
+Also, it makes me think I will need to diagram a lot of things. Program structure
+gets rapidly confusing for me
