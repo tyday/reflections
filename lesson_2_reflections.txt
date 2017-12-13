@@ -25,3 +25,12 @@ How do the diagrams help you visualize the branch structure?
 Makes it significantly easier to follow along.
 Also, it makes me think I will need to diagram a lot of things. Program structure
 gets rapidly confusing for me
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result can be interesting and weird. I had a conflict, and I couldn't figure out the problem
+until i went and looked it up on the forum. I had forgotten to end a line with a semicolon.
+I didn't see anything in the merge conflict that indicated that. I don't know how I would have figured it out.
+  We represent them in the diagram to indicate a connection and to show visually how they connect to their parents
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging can make mistakes with the merges. Manual merging is tedious
