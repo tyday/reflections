@@ -1,0 +1,37 @@
+I'm supposed to reflect on how seeing the didference between two files would help debugging.
+
+It makes it easier to see changes and see eerors introduced. It might change the way one would approach programming.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I was thinking that version control might change the way
+you program. But today I am at a loss.
+for how that could be true.
+
+Go back and see how you used to approach
+problems
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+ vs having versions automatically saved, like Google Docs does?
+
+ Automatic: I can forget and not worry!
+ Manual: finer control over commit
+ Logical differentiation between commits.
+ Document the commit/ better understanding of each change
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Easier to treat files differently. Multiple files make the system more complex
+Multiple files in certain situations can be very useful
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log gives a broad vision of changes.
+Git diff_ gives a view of difference between individual commits. 
+Requires good use of commit information
+
+How might using version control make you more confident to make changes that could break something?
+
+Little fear that you could it fix something
+Commit before making changes?
