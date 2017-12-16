@@ -19,19 +19,19 @@ What do you think are the pros and cons of manually choosing when to create a co
  Logical differentiation between commits.
  Document the commit/ better understanding of each change
 
- Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
- while others, like Google Docs, treat each file separately?
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
 
- Easier to treat files differently. Multiple files make the system more complex
- Multiple files in certain situations can be very useful
+Easier to treat files differently. Multiple files make the system more complex
+Multiple files in certain situations can be very useful
 
- How can you use the commands git log and git diff to view the history of files?
+How can you use the commands git log and git diff to view the history of files?
 
- Git log gives a broad vision of changes.
-  Git diff_ gives a view of difference between individual commits. 
-  Requires good use of commit information
+Git log gives a broad vision of changes.
+Git diff_ gives a view of difference between individual commits. 
+Requires good use of commit information
 
-  How might using version control make you more confident to make changes that could break something?
+How might using version control make you more confident to make changes that could break something?
 
-  Little fear that you could it fix something
-  Commit before making changes?
+Little fear that you could it fix something
+Commit before making changes?
