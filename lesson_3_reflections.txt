@@ -20,3 +20,8 @@ When would you use one instead of another?
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -- review changes. revert to working copies. comparison to online versions
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-- shared online file.
+-- more difficult. No management. Would require greater communication between people
+-- easier. No githubese to learn.
