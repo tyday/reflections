@@ -17,3 +17,6 @@ When would you use one instead of another?
 -- rename or operation of some sort. Then ask to push your idea back onto the
 -- main branch of the original?
 -- That sounds like i described branching.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-- review changes. revert to working copies. comparison to online versions
